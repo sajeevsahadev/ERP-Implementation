@@ -1,0 +1,15 @@
+Implementation Setup
+
+1. Test Environment need to be setup 
+    - To perform solution setup, UAT
+    - Customer testing setup
+    - After any major development we must give to customer for testing in teh test environment, 
+    Once the test is passwd and is matching with the expectation, we will convert the same in to Production environment
+
+2. Production server
+    - For the live data entry
+ 
+ 
+ 
+ 
+  
