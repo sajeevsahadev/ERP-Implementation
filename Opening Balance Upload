@@ -12,8 +12,19 @@ After the Business Mapping, the next step if Opening Balance Upload
     3.2.3 Opening Advance Recoupment 
   3.3 Opening Inventory - Inventory Count, Inventory Value [The costing method should be preset]
   3.4 Opening Asset - This is for teh depreciation scheduling 
-  3.5 
+  3.5 Employee Opening 
+    3.5.1 Employee Gratuity Provision - Gratuity Provision Amount
+    3.5.2 Employee Leave Salary Provision - Leave Count and Leave Salary
   
+  
+  Masters
+  1. Product Category, Products 
+  2. Business Partner Categories - Supplier, Customers and Employee Categories
+  3. Customers
+  4. Suppliers
+  5. Employee 
+  6. Employee Documents
+  7. Payment Terms
   
   
   
