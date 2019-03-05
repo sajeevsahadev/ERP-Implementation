@@ -15,9 +15,13 @@ After the Business Mapping, the next step if Opening Balance Upload
   3.5 Employee Opening 
     3.5.1 Employee Gratuity Provision - Gratuity Provision Amount
     3.5.2 Employee Leave Salary Provision - Leave Count and Leave Salary
-  3.6 Asset Master and Depreciation Schedule
-  3.7 Open Cheque Payments
-  3.8 Open Cheque Receipts
+  3.6 Open Cheque Payments
+  3.7 Open Cheque Receipts
+  3.8 Asset
+    3.8.1 Asset Masters 
+    3.8.2 Depreciation Schedule
+    3.8.3 Asset Current Location as of 1st Jan 2019
+  
   
   
   Masters
@@ -31,6 +35,7 @@ After the Business Mapping, the next step if Opening Balance Upload
   8. Unit of Measurement and UOM Conversions.
   9. Cash Books (Petty cash books/ Impress Account)
   10. Warehouse and Locators
+  11. Project Master with opening values of Retention, Advance, 
   
   
   
