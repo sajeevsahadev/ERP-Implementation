@@ -1,13 +1,13 @@
-1. Login Page
-Multi Company, Multi Branch, Multi Warehouse, Multi language
-2. Home Page
-3. Dash Boards
-4. Document Status Indicators
-5. Workflow, Notice & Alerts
-6. Favourite - System & User
-7. Recent Items
+1. Login Page - Multi Company, Multi Branch, Multi Warehouse, Multi language
+2. Home Page - Home page have 2 side - left panel is modules right panel is BI area - for dashboards and other alerts
+3. Dash Boards - Owners dashboard, Cash Flow analysis etc
+4. Document Status Indicators - PDC receivable/ Payable in next 30 days, Document expiring in next 60 days etc.
+5. Workflow, Notice & Request  - multi Level Approval workflow, Internal Notice of any errors or any action to do, Request - Internal Request / Customer/ Supplier Request  
+6. Favourite - System & User defined structure
+7. Recent Items - easy for accessing the recently opened items
 8. Menu Items - Left Panel
-- Modules at High level
+- Modules at High level - Project/Sales, Purchase, Inventory, Finance, Asset, HR & Payroll
 - Security - with Complete Audit logs - Who/what data/ which time
-- Approval Work flow
-- Automated Alerts and schedules
+- Multi Level Approval Work flow
+- Automated Alerts(Email & SMS) & Sceduled Jobs (Like MRP, Replinish - requisition generation etc) 
+- Integration with other system - API & direct access
