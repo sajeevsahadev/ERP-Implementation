@@ -8,6 +8,8 @@ Implementation Setup
 
 2. Production server
     - For the live data entry
+    - Install the Application. Pre-requisity is Chart of Account File.
+        - Either default Chart of account can be used or COA file should be updated with the customer format
  
  
  
