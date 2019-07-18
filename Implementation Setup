@@ -1,5 +1,35 @@
 Implementation Setup
 
+Customer meeting and list down the scope of work
+- What all modules need to activate?
+- What are the user responsibilities?/
+- How user will do their responsibilities using the system?
+- What are the automated process and what all are mannually managing?
+- Application Side
+    - Logo of the company? 
+    - Letter head need to be configured in the print out, then the image is required.
+    - What all windows are using?
+    - Any used fields need to hide in grid and toggle view? 
+    - What is the prinout layout?
+    - Any workflow need to configure for the windows?
+    - What all processes are using?
+    - Any default values in the process?
+    - What all reports are using?
+    - Any minor layout changes for the reports in the system level/ client level are required?
+    - What all alerts need to configure?
+    - Any schedules need to be configured?
+    - Any use ful document status indicators can be configured?
+    - Where the attachments and archives are stored? - In the database / folder?
+ - Accounting
+    - What is the accounting year practice? Jan to Dec or Apr-Mar?
+    - What is the costing methods?
+    - What are the cost elements for the costing?
+    - Any history and future date period control is required?
+    - What are the default accounts for the customer?
+    - Suspense balance / Negative posting should be controlled.
+    - What all are the accounting dimentions should be enabled?
+    
+
 1. Test Environment need to be setup 
     - To perform solution setup, UAT
     - Customer testing setup
