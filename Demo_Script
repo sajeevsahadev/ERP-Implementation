@@ -2,7 +2,7 @@ This should not take more than 15 minutes.
 
 1. Login Page - Multi Company, Multi Branch, Multi Warehouse, Multi language
 2. Home Page - Home page have 2 side - left panel is modules right panel is BI area - for dashboards and other alerts
-3. Dash Boards - Owners dashboard, Cash Flow analysis etc
+3. Dash Boards
 4. Document Status Indicators - PDC receivable/ Payable in next 30 days, Document expiring in next 60 days etc.
 5. Workflow, Notice & Request  - multi Level Approval workflow, Internal Notice of any errors or any action to do, Request - Internal Request / Customer/ Supplier Request  
 6. Favourite - System & User defined structure
