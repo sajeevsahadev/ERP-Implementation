@@ -3,7 +3,7 @@ Steps to do after Inotial Client Setup
 1. Configure Accounting Schema
   - Configure Cost Element and Costing Method
   - Name Calendar and Periods
-  - 
+  - Create Dimensions
   
   
 System level Configuration - Set proper System Config 
@@ -16,4 +16,14 @@ System level Configuration - Set proper System Config
 - Create users and access the Role 
 - Dashboard Content Edit Configuration (xx)
 - Document Status Indicator Configuration (xx)
-  
+- Greetings Master - This can be done in Client Setup(!!!!!!!) TODO
+- Bank master and Bank Account Number and Its accounting
+- Configure Cash Book and its accounting
+- Configure the accounting Schema
+ - Configure the default Accounts
+ - Add dimenstions
+ - Configure the Costing Level -  Organization/ Client / Warehouse / Batch/Lot Level
+ - Configure Costign Method and Costing Type
+ - Configure the check boxes - allow nogative posting etc.
+ - Document Sequance - Check with Customer for the Next ID (!!!!!!!)
+ 
