@@ -13,6 +13,7 @@ System level Configuration - Set proper System Config
 - Organization Info - Address of company, Phone and Fax, Tax Number, Logo for reports, Warehouse, Employer Number, Routing Number, Receipt Footer Test ( for WPS), Default Shift if any
 - Language Window: English (United Kingdom) = System Language set as True
 - Create Roles and Given the Organizational and Menu Access
+- Create users and access the Role 
 - Dashboard Content Edit Configuration (xx)
 - Document Status Indicator Configuration (xx)
   
