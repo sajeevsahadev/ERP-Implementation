@@ -26,4 +26,14 @@ System level Configuration - Set proper System Config
  - Configure Costign Method and Costing Type
  - Configure the check boxes - allow nogative posting etc.
  - Document Sequance - Check with Customer for the Next ID (!!!!!!!)
+ - Tax Setup - Tax category and Tax rate and its accounting (!!!!!!!!) Client Setup have some changes in the country config TODO
+ - Create Charges from the process(!!!!!!!!!!!!!)  TODO
+ - GL Distribution Configuration if any
+ - Currency Rate Conversions ( !!!!!) Get it from Customer - What are the standard rates??, Excel file format for importing!!! 
+
+ 
+ 
+ 
+ 
+ 
  
