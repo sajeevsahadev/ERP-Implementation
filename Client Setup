@@ -7,4 +7,12 @@ Steps to do after Inotial Client Setup
   
   
 System level Configuration - Set proper System Config 
+
+- Rename Warehouse Name and Locator Name
+- Client  and Client Info - Update Logo, Email setup, 
+- Organization Info - Address of company, Phone and Fax, Tax Number, Logo for reports, Warehouse, Employer Number, Routing Number, Receipt Footer Test ( for WPS), Default Shift if any
+- Language Window: English (United Kingdom) = System Language set as True
+- Create Roles and Given the Organizational and Menu Access
+- Dashboard Content Edit Configuration (xx)
+- Document Status Indicator Configuration (xx)
   
