@@ -1,14 +1,6 @@
-ns1.hosting24.com
-ns2.hosting24.com
-
-
-
-triangle
-light, break, indicator
-tyre - date - WK-YYYY - minimum 4 years
-
-
-
-Business Partner
-
-=IF(OR(G2>0,H2>0),0,E2)
+17.5.7.8
+172.31.255.255
+10.255.255.255
+192.168.255.255
+52.108.62.171
+52.108.62.183
